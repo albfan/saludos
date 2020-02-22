@@ -3,3 +3,5 @@ language: generic
 script:
    - grep -i bye *
    - grep -i hello *
+   - grep -i salut *
+   - grep -i adieu *
