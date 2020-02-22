@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/albfan/saludos.svg?branch=master)](https://travis-ci.com/albfan/saludos)
+
 # Saludos
 
 Repositorio de ejemplo para el cursillo de git de MakersAsturias
